@@ -2,9 +2,9 @@
   "content": [
     {
       "content": null,
-      "created": "2022-04-24T23:44:25.632642Z",
+      "created": "2022-04-25T01:38:33.043434Z",
       "format": null,
-      "last_modified": "2022-04-24T23:44:25.632642Z",
+      "last_modified": "2022-04-25T01:38:33.043434Z",
       "mimetype": null,
       "name": "DA01",
       "path": "DA01",
@@ -14,9 +14,9 @@
     },
     {
       "content": null,
-      "created": "2022-04-24T23:44:25.636642Z",
+      "created": "2022-04-25T01:38:33.051435Z",
       "format": null,
-      "last_modified": "2022-04-24T23:44:25.636642Z",
+      "last_modified": "2022-04-25T01:38:33.051435Z",
       "mimetype": null,
       "name": "DATA",
       "path": "DATA",
@@ -26,9 +26,21 @@
     },
     {
       "content": null,
-      "created": "2022-04-24T23:44:25.636642Z",
+      "created": "2022-04-25T01:38:33.043434Z",
       "format": null,
-      "last_modified": "2022-04-24T23:44:24.036622Z",
+      "last_modified": "2022-04-25T01:38:33.043434Z",
+      "mimetype": null,
+      "name": "DA03",
+      "path": "DA03",
+      "size": null,
+      "type": "directory",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-04-25T01:38:33.051435Z",
+      "format": null,
+      "last_modified": "2022-04-25T01:38:31.167325Z",
       "mimetype": "text/markdown",
       "name": "README.md",
       "path": "README.md",
@@ -38,9 +50,9 @@
     },
     {
       "content": null,
-      "created": "2022-04-24T23:44:25.632642Z",
+      "created": "2022-04-25T01:38:33.043434Z",
       "format": null,
-      "last_modified": "2022-04-24T23:44:25.632642Z",
+      "last_modified": "2022-04-25T01:38:33.043434Z",
       "mimetype": null,
       "name": "DA02",
       "path": "DA02",
@@ -49,9 +61,9 @@
       "writable": true
     }
   ],
-  "created": "2022-04-24T23:44:25.636642Z",
+  "created": "2022-04-25T01:38:33.051435Z",
   "format": "json",
-  "last_modified": "2022-04-24T23:44:25.636642Z",
+  "last_modified": "2022-04-25T01:38:33.051435Z",
   "mimetype": null,
   "name": "",
   "path": "",
