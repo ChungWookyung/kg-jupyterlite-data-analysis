@@ -2041,6 +2041,22 @@
         ""
       ]
     },
+    "jupyterlab_search_replace": {
+      "": {
+        "domain": "jupyterlab_search_replace",
+        "language": "ja-JP",
+        "plural_forms": "nplurals=1; plural=0;",
+        "version": "jupyterlab"
+      },
+      "%2 result(s) in %1 file": [
+        "",
+        ""
+      ],
+      "Replace %2 matche(s) accross %1 file with %3? This cannot be undone.": [
+        "",
+        ""
+      ]
+    },
     "jupyterlab_spreadsheet_editor": {
       "": {
         "domain": "jupyterlab_spreadsheet_editor",

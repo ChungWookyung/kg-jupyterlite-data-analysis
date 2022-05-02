@@ -87,7 +87,7 @@
       {
         "extension": "./extension",
         "liteExtension": false,
-        "load": "static/remoteEntry.710d0093522e0289f99a.js",
+        "load": "static/remoteEntry.509ecd914d0df11eb8e1.js",
         "name": "jupyter-matplotlib"
       },
       {
