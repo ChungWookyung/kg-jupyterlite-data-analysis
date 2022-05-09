@@ -2,20 +2,20 @@
   "content": [
     {
       "content": null,
-      "created": "2022-05-09T03:27:57.454960Z",
+      "created": "2022-05-09T03:35:31.189932Z",
       "format": null,
-      "last_modified": "2022-05-09T03:26:20.485611Z",
+      "last_modified": "2022-05-09T03:33:49.593193Z",
       "mimetype": null,
       "name": "DA05.ipynb",
       "path": "DA05/DA05.ipynb",
-      "size": 657412,
+      "size": 632167,
       "type": "notebook",
       "writable": true
     }
   ],
-  "created": "2022-05-09T03:27:57.454960Z",
+  "created": "2022-05-09T03:35:31.189932Z",
   "format": "json",
-  "last_modified": "2022-05-09T03:27:57.454960Z",
+  "last_modified": "2022-05-09T03:35:31.189932Z",
   "mimetype": null,
   "name": "DA05",
   "path": "DA05",
