@@ -4,11 +4,11 @@
       "content": null,
       "created": "2022-06-13T01:57:53.645714Z",
       "format": null,
-      "last_modified": "2022-06-13T01:56:16.013062Z",
+      "last_modified": "2022-06-13T01:56:16.017062Z",
       "mimetype": null,
-      "name": "DA05.ipynb",
-      "path": "DA05/DA05.ipynb",
-      "size": 632167,
+      "name": "DA10.ipynb",
+      "path": "DA10/DA10.ipynb",
+      "size": 175385,
       "type": "notebook",
       "writable": true
     }
@@ -17,8 +17,8 @@
   "format": "json",
   "last_modified": "2022-06-13T01:57:53.645714Z",
   "mimetype": null,
-  "name": "DA05",
-  "path": "DA05",
+  "name": "DA10",
+  "path": "DA10",
   "size": null,
   "type": "directory",
   "writable": true
