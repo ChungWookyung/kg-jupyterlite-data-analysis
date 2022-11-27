@@ -2,9 +2,9 @@
   "content": [
     {
       "content": null,
-      "created": "2022-11-27T16:26:39.798375Z",
+      "created": "2022-11-27T16:46:55.856842Z",
       "format": null,
-      "last_modified": "2022-11-27T16:25:44.065709Z",
+      "last_modified": "2022-11-27T16:46:00.524925Z",
       "mimetype": "text/x-python",
       "name": "VisualizeNN.py",
       "path": "DA23/VisualizeNN.py",
@@ -14,20 +14,20 @@
     },
     {
       "content": null,
-      "created": "2022-11-27T16:26:39.798375Z",
+      "created": "2022-11-27T16:46:55.856842Z",
       "format": null,
-      "last_modified": "2022-11-27T16:25:44.065709Z",
+      "last_modified": "2022-11-27T16:46:00.524925Z",
       "mimetype": null,
       "name": "DA23.ipynb",
       "path": "DA23/DA23.ipynb",
-      "size": 1187,
+      "size": 1246,
       "type": "notebook",
       "writable": true
     }
   ],
-  "created": "2022-11-27T16:26:39.798375Z",
+  "created": "2022-11-27T16:46:55.856842Z",
   "format": "json",
-  "last_modified": "2022-11-27T16:26:39.798375Z",
+  "last_modified": "2022-11-27T16:46:55.856842Z",
   "mimetype": null,
   "name": "DA23",
   "path": "DA23",
