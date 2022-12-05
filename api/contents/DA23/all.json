@@ -2,9 +2,9 @@
   "content": [
     {
       "content": null,
-      "created": "2022-11-27T22:42:15.766871Z",
+      "created": "2022-12-05T02:17:28.829796Z",
       "format": null,
-      "last_modified": "2022-11-27T22:41:02.034027Z",
+      "last_modified": "2022-12-05T02:16:17.331765Z",
       "mimetype": "text/x-python",
       "name": "VisualizeNN.py",
       "path": "DA23/VisualizeNN.py",
@@ -14,9 +14,9 @@
     },
     {
       "content": null,
-      "created": "2022-11-27T22:42:15.766871Z",
+      "created": "2022-12-05T02:17:28.829796Z",
       "format": null,
-      "last_modified": "2022-11-27T22:41:02.034027Z",
+      "last_modified": "2022-12-05T02:16:17.331765Z",
       "mimetype": null,
       "name": "DA23.ipynb",
       "path": "DA23/DA23.ipynb",
@@ -26,9 +26,9 @@
     },
     {
       "content": null,
-      "created": "2022-11-27T22:42:15.766871Z",
+      "created": "2022-12-05T02:17:28.833796Z",
       "format": null,
-      "last_modified": "2022-11-27T22:41:02.034027Z",
+      "last_modified": "2022-12-05T02:16:17.331765Z",
       "mimetype": "image/svg+xml",
       "name": "nn.svg",
       "path": "DA23/nn.svg",
@@ -37,9 +37,9 @@
       "writable": true
     }
   ],
-  "created": "2022-11-27T22:42:15.766871Z",
+  "created": "2022-12-05T02:17:28.829796Z",
   "format": "json",
-  "last_modified": "2022-11-27T22:42:15.766871Z",
+  "last_modified": "2022-12-05T02:17:28.829796Z",
   "mimetype": null,
   "name": "DA23",
   "path": "DA23",
