@@ -2,20 +2,32 @@
   "content": [
     {
       "content": null,
-      "created": "2022-12-19T02:39:47.848172Z",
+      "created": "2022-12-19T04:37:09.713591Z",
       "format": null,
-      "last_modified": "2022-12-19T02:38:34.191093Z",
+      "last_modified": "2022-12-19T04:36:02.490026Z",
       "mimetype": null,
       "name": "DA26.ipynb",
       "path": "DA26/DA26.ipynb",
       "size": 453323,
       "type": "notebook",
       "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-12-19T04:37:09.717591Z",
+      "format": null,
+      "last_modified": "2022-12-19T04:36:02.490026Z",
+      "mimetype": "text/x-python",
+      "name": "VisualizeNN.py",
+      "path": "DA26/VisualizeNN.py",
+      "size": 9495,
+      "type": "file",
+      "writable": true
     }
   ],
-  "created": "2022-12-19T02:39:47.848172Z",
+  "created": "2022-12-19T04:37:09.717591Z",
   "format": "json",
-  "last_modified": "2022-12-19T02:39:47.848172Z",
+  "last_modified": "2022-12-19T04:37:09.717591Z",
   "mimetype": null,
   "name": "DA26",
   "path": "DA26",
