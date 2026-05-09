@@ -56,8 +56,14 @@
       {
         "extension": "./extension",
         "liteExtension": false,
-        "load": "static/remoteEntry.739053fd1e3fd056a84b.js",
+        "load": "static/remoteEntry.e01ddc1715812041a9e5.js",
         "name": "bqplot"
+      },
+      {
+        "extension": "./extension",
+        "liteExtension": false,
+        "load": "static/remoteEntry.d6ffdcc4d19876d42fd2.js",
+        "name": "bqscales"
       },
       {
         "extension": "./extension",
