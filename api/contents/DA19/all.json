@@ -1,0 +1,29 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2026-10-28T04:44:24.935755Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2026-10-28T04:43:28.956268Z",
+      "mimetype": null,
+      "name": "DA19.ipynb",
+      "path": "DA19/DA19.ipynb",
+      "size": 14580,
+      "type": "notebook",
+      "writable": true
+    }
+  ],
+  "created": "2026-10-28T04:44:24.935755Z",
+  "format": "json",
+  "hash": null,
+  "hash_algorithm": null,
+  "last_modified": "2026-10-28T04:44:24.935755Z",
+  "mimetype": null,
+  "name": "DA19",
+  "path": "DA19",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}
