@@ -2,11 +2,11 @@
   "content": [
     {
       "content": null,
-      "created": "2026-11-04T04:51:32.606995Z",
+      "created": "2026-11-04T05:02:38.899845Z",
       "format": null,
       "hash": null,
       "hash_algorithm": null,
-      "last_modified": "2026-11-04T04:50:47.667256Z",
+      "last_modified": "2026-11-04T05:01:58.526448Z",
       "mimetype": null,
       "name": "DA26.ipynb",
       "path": "DA26/DA26.ipynb",
@@ -16,11 +16,11 @@
     },
     {
       "content": null,
-      "created": "2026-11-04T04:51:32.608117Z",
+      "created": "2026-11-04T05:02:38.901059Z",
       "format": null,
       "hash": null,
       "hash_algorithm": null,
-      "last_modified": "2026-11-04T04:50:47.667256Z",
+      "last_modified": "2026-11-04T05:01:58.526448Z",
       "mimetype": "text/x-python",
       "name": "VisualizeNN.py",
       "path": "DA26/VisualizeNN.py",
@@ -29,11 +29,11 @@
       "writable": true
     }
   ],
-  "created": "2026-11-04T04:51:32.607153Z",
+  "created": "2026-11-04T05:02:38.900748Z",
   "format": "json",
   "hash": null,
   "hash_algorithm": null,
-  "last_modified": "2026-11-04T04:51:32.607153Z",
+  "last_modified": "2026-11-04T05:02:38.900748Z",
   "mimetype": null,
   "name": "DA26",
   "path": "DA26",
