@@ -2,11 +2,11 @@
   "content": [
     {
       "content": null,
-      "created": "2026-11-04T05:02:38.897382Z",
+      "created": "2026-11-04T05:20:27.979030Z",
       "format": null,
       "hash": null,
       "hash_algorithm": null,
-      "last_modified": "2026-11-04T05:01:58.522448Z",
+      "last_modified": "2026-11-04T05:19:44.745707Z",
       "mimetype": null,
       "name": "DA18.ipynb",
       "path": "DA18/DA18.ipynb",
@@ -15,11 +15,11 @@
       "writable": true
     }
   ],
-  "created": "2026-11-04T05:02:38.897382Z",
+  "created": "2026-11-04T05:20:27.979030Z",
   "format": "json",
   "hash": null,
   "hash_algorithm": null,
-  "last_modified": "2026-11-04T05:02:38.897382Z",
+  "last_modified": "2026-11-04T05:20:27.979030Z",
   "mimetype": null,
   "name": "DA18",
   "path": "DA18",
