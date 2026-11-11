@@ -2,11 +2,11 @@
   "content": [
     {
       "content": null,
-      "created": "2026-11-04T05:20:27.975259Z",
+      "created": "2026-11-11T03:01:39.561922Z",
       "format": null,
       "hash": null,
       "hash_algorithm": null,
-      "last_modified": "2026-11-04T05:19:44.745582Z",
+      "last_modified": "2026-11-11T03:00:53.306520Z",
       "mimetype": null,
       "name": "DA02.ipynb",
       "path": "DA02/DA02.ipynb",
@@ -15,11 +15,11 @@
       "writable": true
     }
   ],
-  "created": "2026-11-04T05:20:27.975259Z",
+  "created": "2026-11-11T03:01:39.561922Z",
   "format": "json",
   "hash": null,
   "hash_algorithm": null,
-  "last_modified": "2026-11-04T05:20:27.975259Z",
+  "last_modified": "2026-11-11T03:01:39.561922Z",
   "mimetype": null,
   "name": "DA02",
   "path": "DA02",

@@ -1,0 +1,29 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2026-11-11T03:01:39.565675Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2026-11-11T03:00:53.306788Z",
+      "mimetype": null,
+      "name": "DA21.ipynb",
+      "path": "DA21/DA21.ipynb",
+      "size": 27570,
+      "type": "notebook",
+      "writable": true
+    }
+  ],
+  "created": "2026-11-11T03:01:39.565675Z",
+  "format": "json",
+  "hash": null,
+  "hash_algorithm": null,
+  "last_modified": "2026-11-11T03:01:39.565675Z",
+  "mimetype": null,
+  "name": "DA21",
+  "path": "DA21",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}
